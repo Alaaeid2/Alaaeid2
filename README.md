@@ -40,7 +40,7 @@ As an AI and ML engineer, I design, develop, and deploy intelligent systems that
 - **Voice Command System**: Engineered a real-time speech recognition system using Wav2Vec2, achieving 90% accuracy.  
 - **Conversational Chatbot**: Created a context-aware chatbot with LLM and RAG, deployed seamlessly using Docker.  
 - **Text Detection and Recognition**: Built an end-to-end OCR pipeline using EAST for text detection and a custom-trained CRNN model (MJSynth dataset) for recognition, outperforming EasyOCR in speed and PyTesseract in real-time scenarios.
-- **Recommendation System: Designed a collaborative filtering-based recommendation system, trained with PyTorch and deployed on AWS for scalability.
+- **Recommendation System**: Designed a collaborative filtering-based recommendation system, trained with PyTorch and deployed on AWS for scalability.
 - **Cloud-Based Sentiment Analysis Pipeline**: Engineered a scalable sentiment analysis system on GCP, fine-tuning BERT to achieve 92% accuracy with real-time inference.
 
 ---
