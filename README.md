@@ -1,4 +1,4 @@
-👋 Hi, I’m Alaa Eid
+***👋 Hi, I’m Alaa Eid
 
 AI & Machine Learning Engineer • NLP Enthusiast
 BSc in Medical Informatics, Beni Suef University (2019–2023)
