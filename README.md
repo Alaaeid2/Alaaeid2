@@ -48,7 +48,7 @@ As an AI and ML engineer, I design, develop, and deploy intelligent systems that
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaaeid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaeid-853/)  
 ✉️ **Email:** alaa369eid@gmail.com  
-📄 **[Download CV](https://drive.google.com/file/d/1D6L3ysgbA_Ll1H7lFX-_MdtfKyVRNBf-/view?usp=drive_link)**  
+📄 **[Download CV] (https://drive.google.com/file/d/1QJ5FeyAi2kCb7pvIpW3jxNd1hh0iBHTM/view?usp=drivesdk)**  
 
 ---
 
