@@ -41,9 +41,13 @@ As an AI and ML engineer, I design, develop, and deploy intelligent systems that
 - **Text Detection and Recognition**: Built an end-to-end OCR pipeline using EAST for text detection and a custom-trained CRNN model (MJSynth dataset) for recognition, outperforming EasyOCR in speed and PyTesseract in real-time scenarios.
 - **Recommendation System**: Designed a collaborative filtering-based recommendation system, trained with PyTorch and deployed on AWS for scalability.
 - **IMDB Web-Based Sentiment Analysis Pipeline**:
+
 • Developed a sentiment analysis pipeline for IMDB reviews, training LSTM, hybrid Conv1D-BI_LSTM, and fine-tuned BERT models using HuggingFace Transformers.
+
 • Achieved 98% accuracy with BERT,outperforming other models on the test set.
+
 • Integrated NLTK for input validation,ensuring robust inference on user-submitted text.
+
 • Deployed BERT using Flask, building a web interface with Tailwind CSS and a REST API for real-time predictions.
 
 ---
