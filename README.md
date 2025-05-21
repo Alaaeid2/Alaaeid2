@@ -1,56 +1,182 @@
-# 👋 Hi, I’m Alaa Eid  
-**AI & Machine Learning Engineer • NLP Enthusiast**  
-**BSc in Medical Informatics, Beni Suef University (2019–2023)**  
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hola Hola, It's Alaa here!
+        </samp>
+</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alaaeid-853/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   
+<!-- About Section -->
+## About Me
+<p>
+  🎓 &nbsp;<strong>University</strong>: <strong> Beni Suef University</strong><br/><br/> 
+  📚 &nbsp;<strong>Major</strong>: Computers and Artificial Intelligence<br/><br/>
+  📚 &nbsp;<strong>Minor</strong>: Medical Informatics<br/><br/>
+  🧠 &nbsp;<strong>Concentration</strong>: AI & Machine Learning <br/><br/>
+  🌟 &nbsp;<strong>Interests</strong>: Deep Learning | NLP| | GenAI | LLMs | RAG & GraphRAG | Computer Vision <br/><br/>
+  📫 &nbsp;<strong>Reach me out</strong>: alaa369eid@gmail._com <br/><br/>
+  ✨ &nbsp;Part artist, part engineer!!! <br/><br/>
+  When machines dream, I’m behind the scenes.<br/>
+  Fueled by coffee, driven by curiosity, powered by PyTorch.☕🔥🧠<br/><br/>
+</p>
 
 ---
+# 🛠️ Languages and Tools
 
-## 🔭 What I Do  
-As an AI and ML engineer, I design, develop, and deploy intelligent systems that solve real-world problems. My work includes:  
-
-- Crafting end-to-end machine learning models for speech recognition, natural language processing, and computer vision applications  
-- Optimizing algorithms and pipelines for performance and scalability using advanced AI techniques  
-- Leveraging data-driven insights to build innovative tools for healthcare, accessibility, and automation  
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-**Languages:**  
-`Python`, `C++`, `C#`, `SQL`  
-
-**AI/ML:**  
-`NLP`, `Computer Vision`, `Deep Learning`, `Retrieval-Augmented Generation (RAG)`, `Data Analysis`, `Data Visualization`, `Image Processing`  
-
-**Frameworks:**  
-`TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`, `Django`, `FastAPI`  
-
-**Tools:**  
-`Docker`, `OpenCV`, `Hugging Face`, `SpaCy`, `NLTK`, `Git`, `Linux`, `Pandas`, `NumPy`, `Streamlit`, `Tableau`  
-
-**Cloud:**  
-`AWS`, `Google Cloud Platform`  
-
----
-
-## 🌟 Featured Projects  
-
-- **Smart Assistant Glasses**: Built AI-powered glasses for visually impaired users, integrating five real-time models on NVIDIA Jetson Nano for enhanced accessibility.  
-- **Online Exam System**: Developed a Django-based platform with Google Cloud Speech-to-Text, tailored for Arabic language assessments.  
-- **Voice Command System**: Engineered a real-time speech recognition system using Wav2Vec2, achieving 90% accuracy.  
-- **Conversational Chatbot**: Created a context-aware chatbot with LLM and RAG, deployed seamlessly using Docker.  
-- **Text Detection and Recognition**: Built an end-to-end OCR pipeline using EAST for text detection and a custom-trained CRNN model (MJSynth dataset) for recognition, outperforming EasyOCR in speed and PyTesseract in real-time scenarios.
-- **Recommendation System**: Designed a collaborative filtering-based recommendation system, trained with PyTorch and deployed on AWS for scalability.
-- **IMDB Web-Based Sentiment Analysis Pipeline**: Developed a sentiment analysis pipeline for IMDB reviews, training LSTM, hybrid Conv1D-BI_LSTM, and fine-tuned BERT models using HuggingFace Transformers. Achieved 98% accuracy with BERT, outperforming other models on the test set. Integrated NLTK for input validation,ensuring robust inference on user-submitted text. Deployed BERT using Flask, building a web interface with Tailwind CSS and a REST API for real-time predictions.
-
----
-
-## 📫 Get in Touch  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaaeid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaeid-853/)  
-✉️ **Email:** alaa369eid@gmail.com  
-📄 **[Download CV](https://drive.google.com/file/d/1QJ5FeyAi2kCb7pvIpW3jxNd1hh0iBHTM/view?usp=drivesdk)**  
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
+        </a>
+        <br>R
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        </a>
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+        </a>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+        </a>
+        <br>PyTorch
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="Hugging Face" />
+        </a>
+        <br>Hugging Face
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+        </a>
+        <br>OpenCV
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        </a>
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+        </a>
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+        </a>
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+        </a>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
+        </a>
+        <br>GCP
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="CI/CD" />
+        </a>
+        <br>CI/CD
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+        </a>
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="48" height="48" alt="Streamlit" />
+        </a>
+        <br>Streamlit
+      </td>
+    </tr>
+  </table>
+</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Alaaeid2&theme=radical" alt="Alaa's Streak Stats" />
+</p>
+<!-- 
+<p align="center">
+  <a href="https://github.com/Alaaeid2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alaaeid2&show_icons=true&theme=radical" alt="Alaa's GitHub stats"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Alaaeid2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaaEid2&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
+  </a>
+</p>
+-->
 
 <!-- 
 **Alaaeid2/Alaaeid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
