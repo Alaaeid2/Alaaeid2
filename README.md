@@ -15,6 +15,7 @@
   🎓 &nbsp;<strong>University</strong>: <strong> Beni Suef University</strong><br/><br/> 
   📚 &nbsp;<strong>Major</strong>: Computers and Artificial Intelligence<br/><br/>
   📚 &nbsp;<strong>Minor</strong>: Medical Informatics<br/><br/>
+  🎓 &nbsp;<strong>Postgraduate Education</strong>: <strong>MSc in Artificial Intelligence - Zewail City University of Science and Technology (School of Engineering)</strong><br/><br/> 
   🧠 &nbsp;<strong>Concentration</strong>: AI & Machine Learning <br/><br/>
   🌟 &nbsp;<strong>Interests</strong>: Deep Learning | NLP| | GenAI | LLMs | RAG & GraphRAG | Computer Vision <br/><br/>
   📫 &nbsp;<strong>Reach me out</strong>: alaa369eid@gmail._com <br/><br/>
