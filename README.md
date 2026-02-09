@@ -17,7 +17,7 @@
   📚 &nbsp;<strong>BSc in Computers & Artificial Intelligence</strong>: Beni Suef University<br/><br/>
   🧠 &nbsp;<strong>Concentration</strong>: AI & Machine Learning <br/><br/>
   🌟 &nbsp;<strong>Interests</strong>: Deep Learning | NLP| | GenAI | LLMs | RAG & GraphRAG | Computer Vision <br/><br/>
-  📫 &nbsp;<strong>Reach me out</strong>: alaa369eid@gmail._com <br/><br/>
+  📫 &nbsp;<strong>Reach me out</strong>: alaaeid.swe@gmail._com <br/><br/>
   ✨ &nbsp;Part artist, part engineer!!! <br/><br/>
   When machines dream, I’m behind the scenes.<br/>
   Fueled by coffee, driven by curiosity, powered by PyTorch.☕🔥🧠<br/><br/>
